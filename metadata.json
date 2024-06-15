@@ -1,0 +1,8 @@
+{
+  "name": "ChatItemMenu",
+  "creator": "snailify",
+  "description": "Skyblock item searching in chat!",
+  "version": "1.0.0",
+  "entry": "index.js",
+  "requires": ["Vigilance", "axios"]
+}
