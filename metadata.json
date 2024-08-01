@@ -1,0 +1,8 @@
+{
+  "name": "ChatItemMenu",
+  "creator": "snailify",
+  "description": "Skyblock item searching in chat and profile viewing!",
+  "version": "2.0.0",
+  "entry": "index.js",
+  "requires": ["axios", "RenderLib", "SimpleConfig", "KeybindFix", "BeaconBeam"]
+}
